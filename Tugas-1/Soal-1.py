@@ -1,4 +1,4 @@
-nama = (input("Masukan nama kamu : "))
+nama = str(input("Masukan nama kamu : "))
 umur = int(input("Berapa umur kamu : "))
 tinggi = float(input("Berapa tinggi kamu : "))
 
