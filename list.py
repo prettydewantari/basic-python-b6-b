@@ -20,7 +20,7 @@ print(mylist)
 
 tambah_angka_baru = int(input("Masukkan angka baru : "))
 mylist.append(tambah_angka_baru)
-mylist[0] = tambah_angka_baru
+#mylist[0] = tambah_angka_baru
 print(mylist)
 
 # mylist = [ 7, 8, 9, 10, 11, 12 ]
